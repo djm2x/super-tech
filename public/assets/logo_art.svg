@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="218.2" height="218.4" viewBox="0 0 218.2 218.4">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.409" y1="418.837" x2="0.501" y2="418.055" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2457a1"/>
+      <stop offset="1" stop-color="#174380"/>
+    </linearGradient>
+  </defs>
+  <g id="XMLID_3_" transform="translate(-64.8 -160.7)">
+    <g id="XMLID_8_">
+      <path id="XMLID_10_" d="M157.9,214.4c41.7-18,83.6-35.3,125.1-53.7-18.1,41.3-53.7,124.5-53.7,124.5-19.9-3.9-39.8-7.7-59.8-10.9C165.5,254.3,161.7,234.4,157.9,214.4Z" fill="#2457a1"/>
+      <path id="XMLID_9_" d="M175.8,307.3c13.9,1.9,27.9,4.2,41.7,6.9-9.6,21.5-27.9,64.9-27.9,64.9S180.8,331.1,175.8,307.3Z" fill="#2457a1"/>
+    </g>
+    <g id="XMLID_6_">
+      <path id="XMLID_7_" d="M64.8,253.7c31.3-12.5,62.2-25.9,93.1-39.3q5.55,30,11.6,59.9C134.7,267.5,99.5,261.4,64.8,253.7Z" fill="#b9cae5"/>
+    </g>
+    <g id="XMLID_4_">
+      <path id="XMLID_5_" d="M169.5,274.3c20,3.2,39.9,7,59.8,10.9-3.8,9.7-7.6,19.4-11.8,29-13.9-2.6-27.8-5-41.7-6.9C173.6,296.4,171.4,285.3,169.5,274.3Z" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
