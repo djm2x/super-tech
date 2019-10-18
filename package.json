@@ -3,6 +3,7 @@
     "scripts": {
         "git-rm": "git init && git remote add origin https://github.com/djm2x/super-tech.git",
         "git": "git add . && git commit -m 1 && git push -u origin master",
+        "pull": "git pull origin master",
         "dev": "npm run development",
         "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
         "watch": "npm run development -- --watch",
