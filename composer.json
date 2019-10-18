@@ -14,7 +14,8 @@
         "fideloper/proxy": "^4.0",
         "laravel/framework": "^6.0",
         "laravel/passport": "^7.4",
-        "laravel/tinker": "^1.0"
+        "laravel/tinker": "^1.0",
+        "ext-pdo_sqlite": "*"
     },
     "require-dev": {
         "facade/ignition": "^1.4",
